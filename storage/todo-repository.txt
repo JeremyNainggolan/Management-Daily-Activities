@@ -1,0 +1,2 @@
+1|10:00|Class: Objected Orientated Programming (Theory)|done
+2|15:00|Class: Objected Orientated Programming (Practice)|canceled
