@@ -19,7 +19,7 @@ todo-print-all
 
 **Cara Penggunaan:**
 
-1. Compile program `Driver.exe` dari command-prompt dengan perintah `gcc Driver.c ./libs/todo.c ./libs/repository.c -o Driver -Wall [Compile]`
+1. Compile program `Driver.exe` dari command-prompt dengan perintah `gcc Driver.c ./libs/todo.c ./libs/repository.c -o Driver -Wall`
 2. Jalankan program `Driver.exe` dari command-prompt dengan perintah `./Driver`
 
 **Contoh Penggunaan:**
@@ -48,9 +48,5 @@ todo-print-all
 
 - Kompiler C (seperti MinGW)
 - Editor teks (seperti Visual Studio Code)
-
-**Lisensi:**
-
-Aplikasi ini dilisensikan di bawah lisensi MIT.
 
 **Terima kasih telah menggunakan Management-Daily-Activities!**
