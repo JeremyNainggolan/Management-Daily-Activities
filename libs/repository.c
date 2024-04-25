@@ -1,15 +1,12 @@
-// 12S22002 - Jeremy Mart Valentino Nainggolan
-// 12S22049 - Agnes Monica Sanjani Harefa
+/*
+ * 12S22002 - Jeremy Mart Valentino Nainggolan
+ */
 
 #include "repository.h"
 #include "todo.h"
 #include <stdio.h>
 #include <string.h>
 
-/**
- * @brief implement your prototyped functions mentioned in the repository.h.
- *
- */
 void read_repository(struct activity_t *_activity, unsigned short _size, unsigned short _id)
 {
     FILE *file_activity = fopen("./storage/todo-repository.txt", "r");

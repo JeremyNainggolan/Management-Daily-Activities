@@ -1,5 +1,6 @@
-// 12S22002 - Jeremy Mart Valentino Nainggolan
-// 12S22049 - Agnes Monica Sanjani Harefa
+/*
+ * 12S22002 - Jeremy Mart Valentino Nainggolan
+ */
 
 #include "todo.h"
 
