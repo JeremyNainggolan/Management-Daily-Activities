@@ -42,7 +42,7 @@ todo-print-all
 **Catatan:**
 
 - File output (aktivitas.txt) akan disimpan di direktori yang sama dengan program.
-- Anda dapat mengedit file `aktivitas.txt` secara manual jika perlu.
+- Anda dapat mengedit file `todo-repository.txt` secara manual jika perlu.
 
 **Persyaratan:**
 
@@ -52,11 +52,5 @@ todo-print-all
 **Lisensi:**
 
 Aplikasi ini dilisensikan di bawah lisensi MIT.
-
-**Kontribusi:**
-
-Anda dipersilakan untuk berkontribusi pada pengembangan aplikasi ini. Silakan kunjungi repositori GitHub berikut untuk informasi lebih lanjut:
-
-[https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories)
 
 **Terima kasih telah menggunakan Management-Daily-Activities!**
